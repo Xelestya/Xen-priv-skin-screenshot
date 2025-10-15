@@ -1,6 +1,8 @@
 # Xen-skin-screenshots
 ※the skins used for streaming may differ from those circles and cursors.
 
+you can see a list of the skins I'm using [HERE](https://docs.google.com/spreadsheets/d/1do4dKHUhIYtkLsIbkCH1D_hJHeT22L4cfNMe2_ImRy8/edit?gid=0#gid=0)
+
 # -   @Hoshino
 
 Selection menu
